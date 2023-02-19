@@ -1,0 +1,22 @@
+
+
+.clock{
+    width: 95vw;
+    height: 95vh;
+    text-align: center;
+    
+}
+
+.clock h1{
+    border: 2px solid #DDA0DD;
+    width: 250px;
+    margin: 40vh auto 0px auto;
+    border-radius: 15px;
+    padding: 10px 0px;
+    box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+}
+
+h1{
+    font-family: 'digital_7';
+    color: #216f71;
+}
